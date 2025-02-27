@@ -34,7 +34,7 @@ h3{
 
 .Links{
   height: 600px;
-  background-color: rgb(251, 247, 247);
+  background-color: rgb(112, 112, 112);
   margin: 10px;
   border-radius: 10px;
   padding: 20px;
@@ -58,8 +58,8 @@ footer{
   width: 100%;
   padding: 14px;
   border-radius: 8px;
-  color: white;
-  background-color: blueviolet;
+  color: rgb(27, 27, 27);
+  background-color: rgb(255, 255, 255);
   display: flex;
   text-align: center;
   cursor: pointer;
